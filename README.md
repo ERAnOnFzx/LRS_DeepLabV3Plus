@@ -1,6 +1,6 @@
 # LRS_DeepLabV3Plus
 
-This is the code for LRS_DeepLabV3Plus.
+This is the code for LRS_DeepLabV3Plus, which is a enhanced semantic segmentation model based on DeepLabV3+ to segment cells in bone marrow smear images to help Multiple Myeloma diagnosis.
 
 ## Environment setup
 
